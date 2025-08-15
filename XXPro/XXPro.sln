@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS06Block", "CS06Block\CS06
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS07VariableConstant", "CS07VariableConstant\CS07VariableConstant.csproj", "{64CDD6A6-2B66-4161-BC83-2DAE48F0EC79}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS08DataType", "CS08DataType\CS08DataType.csproj", "{3A4964B5-814F-4A3E-A0B6-1DF85B6A8E6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{64CDD6A6-2B66-4161-BC83-2DAE48F0EC79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64CDD6A6-2B66-4161-BC83-2DAE48F0EC79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64CDD6A6-2B66-4161-BC83-2DAE48F0EC79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A4964B5-814F-4A3E-A0B6-1DF85B6A8E6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A4964B5-814F-4A3E-A0B6-1DF85B6A8E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A4964B5-814F-4A3E-A0B6-1DF85B6A8E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A4964B5-814F-4A3E-A0B6-1DF85B6A8E6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
