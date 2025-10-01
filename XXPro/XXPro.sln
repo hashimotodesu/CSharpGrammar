@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS14IfSwitch", "CS14IfSwitc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS15While", "CS15While\CS15While.csproj", "{8CC9C1D0-4E37-4016-9CDD-E6BEF88468C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS16DoWhile", "CS16DoWhile\CS16DoWhile.csproj", "{E649F805-C19E-451E-9314-845FFD8C99FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{8CC9C1D0-4E37-4016-9CDD-E6BEF88468C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CC9C1D0-4E37-4016-9CDD-E6BEF88468C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CC9C1D0-4E37-4016-9CDD-E6BEF88468C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E649F805-C19E-451E-9314-845FFD8C99FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E649F805-C19E-451E-9314-845FFD8C99FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E649F805-C19E-451E-9314-845FFD8C99FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E649F805-C19E-451E-9314-845FFD8C99FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
