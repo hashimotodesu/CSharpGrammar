@@ -21,7 +21,7 @@ namespace CS16DoWhile
         {
             int i = 100;
 
-            do
+            do //必ず一回通る
             {
                 i++;
             } while (i < 10);
