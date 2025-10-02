@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS17For", "CS17For\CS17For.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS18Foreach", "CS18Foreach\CS18Foreach.csproj", "{A73DBD0E-345F-4ADB-AF2D-6BCAB84FA753}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS20Class", "CS20Class\CS20Class.csproj", "{A1894811-1F78-4FAF-A304-679FD1D2B7C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{A73DBD0E-345F-4ADB-AF2D-6BCAB84FA753}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A73DBD0E-345F-4ADB-AF2D-6BCAB84FA753}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A73DBD0E-345F-4ADB-AF2D-6BCAB84FA753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1894811-1F78-4FAF-A304-679FD1D2B7C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1894811-1F78-4FAF-A304-679FD1D2B7C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1894811-1F78-4FAF-A304-679FD1D2B7C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1894811-1F78-4FAF-A304-679FD1D2B7C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
