@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS16DoWhile", "CS16DoWhile\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS17For", "CS17For\CS17For.csproj", "{194465D5-3CF9-4829-8067-5F6C952B842D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS18Foreach", "CS18Foreach\CS18Foreach.csproj", "{A73DBD0E-345F-4ADB-AF2D-6BCAB84FA753}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{194465D5-3CF9-4829-8067-5F6C952B842D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{194465D5-3CF9-4829-8067-5F6C952B842D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{194465D5-3CF9-4829-8067-5F6C952B842D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A73DBD0E-345F-4ADB-AF2D-6BCAB84FA753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A73DBD0E-345F-4ADB-AF2D-6BCAB84FA753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A73DBD0E-345F-4ADB-AF2D-6BCAB84FA753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A73DBD0E-345F-4ADB-AF2D-6BCAB84FA753}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
