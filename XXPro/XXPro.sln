@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS18Foreach", "CS18Foreach\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS20Class", "CS20Class\CS20Class.csproj", "{A1894811-1F78-4FAF-A304-679FD1D2B7C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS21Constructor", "CS21Constructor\CS21Constructor.csproj", "{F28BBA70-BB37-4108-998C-2EAF0FE301DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{A1894811-1F78-4FAF-A304-679FD1D2B7C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1894811-1F78-4FAF-A304-679FD1D2B7C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1894811-1F78-4FAF-A304-679FD1D2B7C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F28BBA70-BB37-4108-998C-2EAF0FE301DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F28BBA70-BB37-4108-998C-2EAF0FE301DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F28BBA70-BB37-4108-998C-2EAF0FE301DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F28BBA70-BB37-4108-998C-2EAF0FE301DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
