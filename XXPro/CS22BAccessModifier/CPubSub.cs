@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace CS22BAccessModifier
 {
-    internal class CPubSub
+    internal class CPubSub:BPub
     {
+        private void ddd()
+        {
+            base.GetProtected();
+        }
     }
 }

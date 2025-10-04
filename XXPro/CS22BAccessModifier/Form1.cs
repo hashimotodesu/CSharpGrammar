@@ -16,7 +16,12 @@ namespace CS22BAccessModifier
         {
             InitializeComponent();
 
+            BPub b = new BPub();
+            BInternal bInternal = new BInternal();
 
+            b.GetPublic();　//どこからでも
+            b.GetInternal();　//同じアセンブリ内
+            b.GetInternalProtected();
         }
     }
 }

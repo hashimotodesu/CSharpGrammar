@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="BInternal.cs" />
     <Compile Include="BPub.cs" />
+    <Compile Include="CPubSub.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>

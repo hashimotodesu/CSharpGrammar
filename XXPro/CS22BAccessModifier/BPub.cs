@@ -8,5 +8,29 @@ namespace CS22BAccessModifier
 {
     public class BPub
     {
+        public void GetPublic()
+        {
+
+        }
+
+        internal void GetInternal()
+        {
+
+        }
+
+        protected void GetProtected()
+        {
+
+        }
+
+        internal protected void GetInternalProtected()
+        {
+
+        }
+
+        private void GetPrivate()
+        {
+
+        }
     }
 }
