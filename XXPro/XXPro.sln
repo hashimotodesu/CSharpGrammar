@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS25Instance", "CS25Instanc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS26Encapsulation", "CS26Encapsulation\CS26Encapsulation.csproj", "{FCA4FEEC-049B-4B31-8663-F7E48602BDC1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS27Property", "CS27Property\CS27Property.csproj", "{BBFEB0A2-EEAE-4E0E-AB93-0A40D9A8C1D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{FCA4FEEC-049B-4B31-8663-F7E48602BDC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCA4FEEC-049B-4B31-8663-F7E48602BDC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCA4FEEC-049B-4B31-8663-F7E48602BDC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBFEB0A2-EEAE-4E0E-AB93-0A40D9A8C1D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBFEB0A2-EEAE-4E0E-AB93-0A40D9A8C1D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBFEB0A2-EEAE-4E0E-AB93-0A40D9A8C1D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBFEB0A2-EEAE-4E0E-AB93-0A40D9A8C1D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
