@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS23MethodOverload", "CS23M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS24Field", "CS24Field\CS24Field.csproj", "{BC3E2954-8214-471B-9478-38DCFFDF743E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS25Instance", "CS25Instance\CS25Instance.csproj", "{938070EC-A5D4-4CBA-B166-9FDD547E7C0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{BC3E2954-8214-471B-9478-38DCFFDF743E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC3E2954-8214-471B-9478-38DCFFDF743E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC3E2954-8214-471B-9478-38DCFFDF743E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{938070EC-A5D4-4CBA-B166-9FDD547E7C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{938070EC-A5D4-4CBA-B166-9FDD547E7C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{938070EC-A5D4-4CBA-B166-9FDD547E7C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{938070EC-A5D4-4CBA-B166-9FDD547E7C0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
