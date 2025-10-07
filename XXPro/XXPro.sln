@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS26Encapsulation", "CS26En
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS27Property", "CS27Property\CS27Property.csproj", "{BBFEB0A2-EEAE-4E0E-AB93-0A40D9A8C1D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS28Dispose", "CS28Dispose\CS28Dispose.csproj", "{4CBF0882-F85F-4DA9-A260-65CF2AEA39BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{BBFEB0A2-EEAE-4E0E-AB93-0A40D9A8C1D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBFEB0A2-EEAE-4E0E-AB93-0A40D9A8C1D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBFEB0A2-EEAE-4E0E-AB93-0A40D9A8C1D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CBF0882-F85F-4DA9-A260-65CF2AEA39BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CBF0882-F85F-4DA9-A260-65CF2AEA39BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CBF0882-F85F-4DA9-A260-65CF2AEA39BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CBF0882-F85F-4DA9-A260-65CF2AEA39BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

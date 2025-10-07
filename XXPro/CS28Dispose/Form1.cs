@@ -15,6 +15,11 @@ namespace CS28Dispose
         public Form1()
         {
             InitializeComponent();
+
+            using (var db = new Database())
+            {
+                //処理
+            }
         }
     }
 }
