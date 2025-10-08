@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS31Override", "CS31Overrid
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS32Interface", "CS32Interface\CS32Interface.csproj", "{EC5AB49C-3F34-40DD-890C-FBC455726D3D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS33AbstractClass", "CS33AbstractClass\CS33AbstractClass.csproj", "{A20A55DA-01C2-44EB-ACC4-8F27AE4E7830}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{EC5AB49C-3F34-40DD-890C-FBC455726D3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC5AB49C-3F34-40DD-890C-FBC455726D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC5AB49C-3F34-40DD-890C-FBC455726D3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A20A55DA-01C2-44EB-ACC4-8F27AE4E7830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A20A55DA-01C2-44EB-ACC4-8F27AE4E7830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A20A55DA-01C2-44EB-ACC4-8F27AE4E7830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A20A55DA-01C2-44EB-ACC4-8F27AE4E7830}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
