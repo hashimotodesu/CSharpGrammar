@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CS30Inheritance
+namespace CS31Override
 {
     internal class A1
     {
