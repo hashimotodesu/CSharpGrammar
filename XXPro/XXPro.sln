@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS32Interface", "CS32Interf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS33AbstractClass", "CS33AbstractClass\CS33AbstractClass.csproj", "{A20A55DA-01C2-44EB-ACC4-8F27AE4E7830}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS34Exception", "CS34Exception\CS34Exception.csproj", "{9981F23A-1320-4301-AB2C-07DB97178593}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{A20A55DA-01C2-44EB-ACC4-8F27AE4E7830}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A20A55DA-01C2-44EB-ACC4-8F27AE4E7830}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A20A55DA-01C2-44EB-ACC4-8F27AE4E7830}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9981F23A-1320-4301-AB2C-07DB97178593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9981F23A-1320-4301-AB2C-07DB97178593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9981F23A-1320-4301-AB2C-07DB97178593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9981F23A-1320-4301-AB2C-07DB97178593}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
